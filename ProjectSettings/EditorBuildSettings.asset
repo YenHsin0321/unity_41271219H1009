@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 3f6716a600d626240b547ae3a6546db6
+  - enabled: 0
+    path: Assets/GameScene/GameScene.unity
+    guid: 8be4240b8bbc07e4dbb520542f6a2ef4
+  - enabled: 1
+    path: Assets/Minimalist Christmas/Demo/DemoScene.unity
+    guid: 1274ee83aa7611644bfe16e980ff68cf
+  - enabled: 1
+    path: Assets/SimpleLowPolyNature/Scenes/DemoDay.unity
+    guid: 304a5748b784bc241be3c08d67013b21
   m_configObjects: {}
